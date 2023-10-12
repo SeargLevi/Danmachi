@@ -1,0 +1,50 @@
+[
+
+//Level 1-9,
+  {
+		"name": "Level 1 I",
+		"unitTypes": ["Adventurer"],
+    "column": 0,
+    "row": 0
+  }, 
+  {
+		"name": "Level 1 II",
+		"uniques": ["[+10]% Strength", "Only available <for units with [Level 1 I]>"],
+		"unitTypes": ["Adventurer"],
+    "column": 1,
+    "row": 0
+  },
+  {
+		"name": "Level 1 III",
+		"uniques": ["[+20]% Strength", "Only available <for units with [Level 1 II]>"],
+		"unitTypes": ["Adventurer"],
+    "column": 2,
+    "row": 0
+  },
+  {
+		"name": "Level 2 I",
+		"prerequisites": ["Attack LV1", "Defense LV1"],
+		"uniques": ["[+40]% Strength", "Only available <for units with [Level 1 III]>"],
+		"unitTypes": ["Adventurer"],
+    "column": 3,
+    "row": 0
+  },
+//Atk/Def
+  {
+		"name": "Attack LV1",
+		"prerequisites": ["Level 1 I"],
+		"uniques": ["[+10]% Strength <when attacking>", "[-10]% Strength <when defending>"],
+		"unitTypes": ["Adventurer"],
+    "column": 2,
+    "row": 1
+  },
+	{
+		"name": "Defense LV1",
+		"prerequisites": ["Level 1 I"],
+		"uniques": ["[-10]% Strength <when attacking>", "[+10]% Strength <when defending>"],
+		"unitTypes": ["Adventurer"],
+    "column": 2,
+    "row": 2
+  }
+
+] 
