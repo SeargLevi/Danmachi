@@ -4,7 +4,7 @@
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 
        		"startIntroPart1": "",
        		"startIntroPart2": "",
@@ -32,10 +32,10 @@
    	},
 	{
 		"name": "Loki Familia",
-		"leaderName": "Ramesses II",
+		"leaderName": "Ramejsses II",
 		"adjective": ["Egyptian"],
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
-		"preferredVictoryType": "Cultural",
+		"preferredVictoryType": "Domination",
 
        		"startIntroPart1": "",
        		"startIntroPart2": "",
@@ -50,11 +50,11 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [255, 252, 3],
+		"outerColor": [0, 252, 3],
 		"innerColor": [83, 0, 208],
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
-		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
+		"cities": ["Thgebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
 			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
