@@ -11,4 +11,5 @@
 
         // Filtering uniques must be listed here to tell RulesetValidator they're OK despite untyped
         "Aircraft"
+    ] 
 }   
