@@ -10,7 +10,7 @@
 			"Gain [3] [Gold] <upon ending a turn in a [Babel] tile> <for units with [Looter II]>"]
   },
   {
-        "name": "Creature",
+        "name": "Monster",
         "movementType": "Land", 
 	"uniques": ["[-80]% XP gained from combat"] 
   } 
