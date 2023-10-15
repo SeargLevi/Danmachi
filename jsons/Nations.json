@@ -3,7 +3,7 @@
 		"name": "Hestia Familia",
 		"leaderName": "Ramesses II",
 		"adjective": ["Egyptian"],
-		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
        		"startIntroPart1": "",
@@ -34,7 +34,7 @@
 		"name": "Loki Familia",
 		"leaderName": "Ramejsses II",
 		"adjective": ["Egyptian"],
-		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
+		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
        		"startIntroPart1": "",
