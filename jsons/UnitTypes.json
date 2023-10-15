@@ -1,8 +1,7 @@
 [
   {
         "name": "Adventurer",
-        "movementType": "Land",
-        "uniques": ["This Unit gains the [Hero] promotion <upon defeating a [Military] unit> <when below [10] HP> <with [5]% chance>"], 
+        "movementType": "Land"
   }, 
   {
         "name": "Monster",
