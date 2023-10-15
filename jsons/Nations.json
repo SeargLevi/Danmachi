@@ -21,7 +21,6 @@
 
 		"outerColor": [255, 252, 3],
 		"innerColor": [83, 0, 208],
-		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
@@ -53,7 +52,6 @@
 
 		"outerColor": [255, 252, 3],
 		"innerColor": [83, 0, 208],
-		"favoredReligion": "Islam",
 		"uniqueName": "Monument Builders",
 		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
