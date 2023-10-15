@@ -1,0 +1,27 @@
+[
+  {
+		"name": "Prince",
+		"baseHappiness": 9,
+		"extraHappinessPerLuxury": 0,
+		"researchCostModifier": 1,
+		"unitCostModifier": 1,
+		"buildingCostModifier": 1,
+		"policyCostModifier": 1,
+		"unhappinessModifier": 1,
+		"barbarianBonus": 0.33,
+		"startingUnits": ["Settler"],
+		"aiCityGrowthModifier": 1,
+		"aiUnitCostModifier": 1,
+		"aiBuildingCostModifier": 1,
+		"aiWonderCostModifier": 1,
+		"aiBuildingMaintenanceModifier": 1,
+		"aiUnitMaintenanceModifier": 0.85,
+		"aiFreeTechs": [],
+		"aiMajorCivStartingUnits": ["Settler"],
+		"aiCityStateStartingUnits": ["Settler"],
+		"aiUnhappinessModifier": 1,
+		"aisExchangeTechs": true,
+		"turnBarbariansCanEnterPlayerTiles": 0,
+		"clearBarbarianCampReward": 25
+  }
+] 
