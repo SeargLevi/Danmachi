@@ -13,5 +13,9 @@
         "name": "Monster",
         "movementType": "Land", 
 	"uniques": ["[-80]% XP gained from combat"] 
+  }, 
+  {
+        "name": "Civilian",
+        "movementType": "Land"
   } 
 ] 
