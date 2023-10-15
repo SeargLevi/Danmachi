@@ -6,8 +6,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
 		"preferredVictoryType": "Cultural",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+       		"startIntroPart1": "",
+       		"startIntroPart2": "",
 
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
 		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
@@ -29,7 +29,7 @@
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
 			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
 			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
-        "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
+       		"spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
    	},
 	{
 		"name": "Loki Familia",
@@ -38,8 +38,8 @@
 		"startBias": ["Avoid [Jungle]","Avoid [Forest]"],
 		"preferredVictoryType": "Cultural",
 
-        "startIntroPart1": "",
-        "startIntroPart2": "",
+       		"startIntroPart1": "",
+       		"startIntroPart2": "",
 
 		"declaringWar": "You are but a pest on this Earth, prepare to be eliminated!",
 		"attacked": "You are a fool who evokes pity. You have brought my hostility upon yourself and your repulsive civilization!",
@@ -61,6 +61,13 @@
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
 			   "Balat","Ellahun","Hawara","Dashur","Damanhur","Abusir","Herakleopolis","Akoris",
 			   "Benihasan","Badari","Hermopolis","Amrah","Koptos","Ombos","Naqada","Semna","Soleb"],
-        "spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
-	}
+       		"spyNames": ["Refaat", "Heba", "Salah", "Ahmed", "Zakaria", "Bastet", "Ma'at", "Nebhet", "Tefenet", "Neuth"]
+	}, 
+//Barbarian
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+       		"innerColor": [185,12,12],
+		"uniques": ["Heals [20] damage if it kills a unit"]
+	} 
 ]
