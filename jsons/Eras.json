@@ -2,21 +2,21 @@
   {
     "name": "Upper Floors", 
  		"startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "Adventurer Melee"
+    "startingMilitaryUnit": "Human"
   }, 
   {
     "name": "Middle Floors", 
  		"startingMilitaryUnitCount": 2,
-    "startingMilitaryUnit": "Adventurer Melee"
+    "startingMilitaryUnit": "Human"
   }, 
   {
     "name": "Lower Floors", 
  		"startingMilitaryUnitCount": 3,
-    "startingMilitaryUnit": "Adventurer Melee"
+    "startingMilitaryUnit": "Human"
   }, 
   {
     "name": "Deep Floors", 
  		"startingMilitaryUnitCount": 4,
-    "startingMilitaryUnit": "Adventurer Melee"
+    "startingMilitaryUnit": "Human"
   }
 ] 
