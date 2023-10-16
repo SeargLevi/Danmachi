@@ -3,6 +3,7 @@
         "name": "Adventurer",
         "movementType": "Land", 
 	"uniques": ["Never appears as a Barbarian unit", 
+	"This Unit gains the [Level 1 I] promotion", 
 	"This Unit gains [1] XP <upon defeating a [Monster LV1] unit>", 
 	"This Unit gains [2] XP <upon defeating a [Monster LV2] unit>",
 	"This Unit gains [3] XP <upon defeating a [Monster LV3] unit>", 
@@ -11,8 +12,7 @@
 	"This Unit gains [6] XP <upon defeating a [Monster LV6] unit>", 
 	"This Unit gains [7] XP <upon defeating a [Monster LV7] unit>", 
 	"This Unit gains [8] XP <upon defeating a [Monster LV8] unit>", 
-	"This Unit gains [9] XP <upon defeating a [Monster LV9] unit>"],
-	"promotions": ["Level 1 I"]
+	"This Unit gains [9] XP <upon defeating a [Monster LV9] unit>"]
   }, 
   {
         "name": "Monster",
