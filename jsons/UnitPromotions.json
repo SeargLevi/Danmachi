@@ -50,14 +50,12 @@
   {
 		"name": "Liaris Freese",
 		"uniques": ["[+100]% XP gained from combat <while the empire is happy>"],
-		"unitTypes": ["Adventurer"],
     "column": 1,
     "row": 8
   },
   {
 		"name": "Argonaut",
 		"uniques": ["[+10]% Strength"],
-		"unitTypes": ["Adventurer"],
     "column": 2,
     "row": 8
   }, 
