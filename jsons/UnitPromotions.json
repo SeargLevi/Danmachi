@@ -10,7 +10,7 @@
   {
 		"name": "Level 1 II",
 	 	"prerequisites": ["Level 1 I"], 
-		"uniques": ["[+10]% Strength", "Only available <for units with [Level 1 I]>"],
+		"uniques": ["[+10]% Strength"],
 		"unitTypes": ["Adventurer"],
     "column": 2,
     "row": 1
@@ -18,7 +18,7 @@
   {
 		"name": "Level 1 III",
 	 	"prerequisites": ["Level 1 II"], 
-		"uniques": ["[+20]% Strength", "Only available <for units with [Level 1 II]>"],
+		"uniques": ["[+20]% Strength"],
 		"unitTypes": ["Adventurer"],
     "column": 3,
     "row": 1
