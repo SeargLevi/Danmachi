@@ -1,35 +1,26 @@
 [
-
 //Level 1-9,
   {
 		"name": "Level 1 I",
 		"unitTypes": ["Adventurer"],
-    "column": 1,
-    "row": 1
   }, 
   {
 		"name": "Level 1 II",
 	 	"prerequisites": ["Level 1 I"], 
 		"uniques": ["[+10]% Strength"],
 		"unitTypes": ["Adventurer"],
-    "column": 1,
-    "row": 2
   },
   {
 		"name": "Level 1 III",
 	 	"prerequisites": ["Level 1 II"], 
 		"uniques": ["[+20]% Strength"],
 		"unitTypes": ["Adventurer"],
-    "column": 1,
-    "row": 3
   },
   {
 		"name": "Level 2 I",
 		"prerequisites": ["Level 1 III", "Attack LV1", "Defense LV1"],
 		"uniques": ["[+40]% Strength", "Only available <for units with [Level 1 III]>"],
 		"unitTypes": ["Adventurer"],
-    "column": 1,
-    "row": 4
   },
 //Atk/Def
   {
@@ -37,29 +28,21 @@
 		"prerequisites": ["Level 1 I"],
 		"uniques": ["[+10]% Strength <when attacking>", "[-10]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
-    "column": 2,
-    "row": 3
   },
-	{
+  {
 		"name": "Defense LV1",
 		"prerequisites": ["Level 1 I"],
 		"uniques": ["[-10]% Strength <when attacking>", "[+10]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
-    "column": 3,
-    "row": 3
   }, 
 //Skills
   {
 		"name": "Liaris Freese",
 		"uniques": ["[+100]% XP gained from combat <while the empire is happy>"],
-    "column": 8,
-    "row": 1
   },
   {
 		"name": "Argonaut",
 		"uniques": ["[+10]% Strength"],
-    "column": 8,
-    "row": 2
   }, 
 //Magic
 ] 
