@@ -25,6 +25,15 @@
 		"cost": 50,
 		"attackSound": "metalhit"
 	},  
+//Characters
+	{
+		"name": "Bell Cranel",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"attackSound": "metalhit"
+	}, 
 //Vanilla
 	{
 		"name": "Worker",
