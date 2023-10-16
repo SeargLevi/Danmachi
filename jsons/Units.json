@@ -23,6 +23,7 @@
 		"movement": 2,
 		"strength": 6,
 		"cost": 50,
+		"uniques": ["Monster LV1"], 
 		"attackSound": "metalhit"
 	},  
 //Characters
