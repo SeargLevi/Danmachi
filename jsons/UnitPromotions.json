@@ -9,6 +9,7 @@
   }, 
   {
 		"name": "Level 1 II",
+	 	"prerequisites": ["Level 1 I"], 
 		"uniques": ["[+10]% Strength", "Only available <for units with [Level 1 I]>"],
 		"unitTypes": ["Adventurer"],
     "column": 2,
@@ -16,6 +17,7 @@
   },
   {
 		"name": "Level 1 III",
+	 	"prerequisites": ["Level 1 II"], 
 		"uniques": ["[+20]% Strength", "Only available <for units with [Level 1 II]>"],
 		"unitTypes": ["Adventurer"],
     "column": 3,
@@ -23,7 +25,7 @@
   },
   {
 		"name": "Level 2 I",
-		"prerequisites": ["Attack LV1", "Defense LV1"],
+		"prerequisites": ["Level 1 III", "Attack LV1", "Defense LV1"],
 		"uniques": ["[+40]% Strength", "Only available <for units with [Level 1 III]>"],
 		"unitTypes": ["Adventurer"],
     "column": 4,
