@@ -18,7 +18,7 @@
   },
   {
 		"name": "Level 2 I",
-		"prerequisites": ["Level 1 III", "Attack LV1", "Defense LV1"],
+		"prerequisites": ["Attack LV1", "Defense LV1"],
 		"uniques": ["[+40]% Strength", "Only available <for units with [Level 1 III]>"],
 		"unitTypes": ["Adventurer"],
   },
