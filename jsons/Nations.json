@@ -1,9 +1,9 @@
 [
 	{
 		"name": "Hestia Familia",
-		"leaderName": "Ramesses II",
+		"leaderName": "Hestia",
 		"adjective": ["Egyptian"],
-		"startBias": ["Plains"],
+		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 
        		"startIntroPart1": "",
@@ -19,10 +19,10 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 208],
-		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"outerColor": [255, 255, 255],
+		"innerColor": [65, 141, 254],
+		"uniqueName": "Fast Growth",
+		"uniques": ["[+10]% XP gained from combat"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -32,7 +32,7 @@
    	},
 	{
 		"name": "Loki Familia",
-		"leaderName": "Ramejsses II",
+		"leaderName": "Loki",
 		"adjective": ["Egyptian"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
@@ -50,10 +50,10 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [0, 252, 3],
-		"innerColor": [83, 0, 208],
-		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"outerColor": [51, 51, 255],
+		"innerColor": [234, 0, 0],
+		"uniqueName": "Teamwork",
+		"uniques": ["[+10]% to Flank Attack bonuses"],
 		"cities": ["Thgebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
@@ -63,7 +63,7 @@
 	}, 
 	{
 		"name": "Freya Familia",
-		"leaderName": "Ramegsses II",
+		"leaderName": "Freya",
 		"adjective": ["Egyptian"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
@@ -81,10 +81,10 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [255, 252, 3],
-		"innerColor": [83, 0, 2],
-		"uniqueName": "Monument Builders",
-		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]"],
+		"outerColor": [96, 96, 96],
+		"innerColor": [255, 56, 56],
+		"uniqueName": "Pure Strength",
+		"uniques": ["[+5]% Strength"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
 			   "Hieraconpolis","Abydos","Asyut","Avaris","Lisht","Buto","Edfu","Pithom","Busiris","Kahun","Athribis",
 			   "Mendes","Elashmunein","Tanis","Bubastis","Oryx","Sebennytus","Akhmin","Karnak","Luxor","El Kab","Armant",
