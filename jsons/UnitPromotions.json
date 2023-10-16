@@ -19,27 +19,45 @@
   {
 		"name": "Level 2 I",
 		"prerequisites": ["Attack LV1", "Defense LV1"],
-		"uniques": ["[+40]% Strength", "Only available <for units with [Level 1 III]>"],
+		"uniques": ["[+70]% Strength", "Only available <for units with [Level 1 III]>"],
 		"unitTypes": ["Adventurer"],
   },
   {
 		"name": "Level 2 II",
 	 	"prerequisites": ["Level 2 I"], 
-		"uniques": ["[+17]% Strength"],
+		"uniques": ["[+20]% Strength"],
 		"unitTypes": ["Adventurer"],
   }, 
   {
 		"name": "Level 2 III",
 	 	"prerequisites": ["Level 2 II"], 
-		"uniques": ["[+34]% Strength"],
+		"uniques": ["[+40]% Strength"],
 		"unitTypes": ["Adventurer"],
   },
   {
 		"name": "Level 3 I",
 	 	"prerequisites": ["Attack LV2", "Defense LV2"], 
-		"uniques": ["[+68]% Strength", "Only available <for units with [Level 2 III]>"],
+		"uniques": ["[+140]% Strength", "Only available <for units with [Level 2 III]>"],
 		"unitTypes": ["Adventurer"],
   },
+  {
+		"name": "Level 3 II",
+	 	"prerequisites": ["Level 3 I"], 
+		"uniques": ["[+40]% Strength"],
+		"unitTypes": ["Adventurer"],
+  },  
+  {
+		"name": "Level 3 III",
+	 	"prerequisites": ["Level 3 II"], 
+		"uniques": ["[+80]% Strength"],
+		"unitTypes": ["Adventurer"],
+  }, 
+  {
+		"name": "Level 4 I",
+	 	"prerequisites": ["Attack LV3", "Defense LV3"], 
+		"uniques": ["[+280]% Strength", "Only available <for units with [Level 2 III]>"],
+		"unitTypes": ["Adventurer"],
+  }, 
 //Atk/Def
   {
 		"name": "Attack LV1",
@@ -50,9 +68,15 @@
   {
 		"name": "Attack LV2",
 		"prerequisites": ["Level 2 I"],
-		"uniques": ["[+17]% Strength <when attacking>", "[-17]% Strength <when defending>"],
+		"uniques": ["[+20]% Strength <when attacking>", "[-20]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   }, 
+  {
+		"name": "Attack LV3",
+		"prerequisites": ["Level 3 I"],
+		"uniques": ["[+40]% Strength <when attacking>", "[-40]% Strength <when defending>"],
+		"unitTypes": ["Adventurer"],
+  },  
   {
 		"name": "Defense LV1",
 		"prerequisites": ["Level 1 I"],
@@ -62,9 +86,15 @@
   {
 		"name": "Defense LV2",
 		"prerequisites": ["Level 2 I"],
-		"uniques": ["[-17]% Strength <when attacking>", "[+17]% Strength <when defending>"],
+		"uniques": ["[-20]% Strength <when attacking>", "[+20]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   },  
+  {
+		"name": "Defense LV3",
+		"prerequisites": ["Level 3 I"],
+		"uniques": ["[-40]% Strength <when attacking>", "[+40]% Strength <when defending>"],
+		"unitTypes": ["Adventurer"],
+  },   
 //Skills
   {
 		"name": "Liaris Freese",
@@ -73,7 +103,7 @@
   {
 		"name": "Argonaut",
 		"uniques": ["[+10]% Strength",
-			"[+17]% Strength <for units with [Level 2 I]>"],
+			"[+20]% Strength <for units with [Level 2 I]>"],
   }, 
 //Magic
 ] 
