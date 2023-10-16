@@ -1,12 +1,30 @@
 [
 	{
-		"name": "Adventurer Melee",
+		"name": "Human",
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 10,
 		"cost": 50,
 		"attackSound": "metalhit"
 	}, 
+	{
+		"name": "Dwarf",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 12,
+		"cost": 50,
+		"attackSound": "metalhit"
+	}, 
+//Monster
+	{
+		"name": "Goblin",
+		"unitType": "Monster",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 4,
+		"cost": 50,
+		"attackSound": "metalhit"
+	},  
 //Vanilla
 	{
 		"name": "Worker",
