@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Human",
+		"name": "Adventurer Melee",
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 10,
