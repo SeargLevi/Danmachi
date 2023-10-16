@@ -1,6 +1,14 @@
 [
 	{
-		"name": "Adventurer Melee",
+		"name": "Amazoness",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"attackSound": "metalhit"
+	}, 
+	{
+		"name": "Human",
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 10,
@@ -12,10 +20,12 @@
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 12,
-		"cost": 50,
+		"cost": 60,
 		"attackSound": "metalhit"
-	}, 
+	},
 //Monster
+
+//Upper Floors 
 	{
 		"name": "Goblin",
 		"unitType": "Monster",
@@ -23,6 +33,18 @@
 		"movement": 2,
 		"strength": 6,
 		"cost": 50,
+		"uniques": ["Monster LV1"], 
+		"attackSound": "metalhit"
+	},  
+//Middle Floors
+	{
+		"name": "Almiraj",
+		"unitType": "Monster",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 16,
+		"cost": 50,
+		"requiredTech": "Middle Floors", 
 		"uniques": ["Monster LV1"], 
 		"attackSound": "metalhit"
 	},  
