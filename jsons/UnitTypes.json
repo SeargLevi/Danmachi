@@ -2,6 +2,7 @@
   {
         "name": "Adventurer",
         "movementType": "Land", 
+	"uniques": ["Never appears as a Barbarian unit"], 
 	"promotions": ["Level 1 I"]
   }, 
   {
