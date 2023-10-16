@@ -50,8 +50,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [51, 51, 255],
-		"innerColor": [234, 0, 0],
+		"outerColor": [33, 33, 168],
+		"innerColor": [241, 89, 89],
 		"uniqueName": "Teamwork",
 		"uniques": ["[+10]% to Flank Attack bonuses"],
 		"cities": ["Thgebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
@@ -81,8 +81,8 @@
 
 		"tradeRequest": "Generous Egypt makes you this offer.",
 
-		"outerColor": [96, 96, 96],
-		"innerColor": [255, 56, 56],
+		"outerColor": [72, 72, 72],
+		"innerColor": [255, 105, 105],
 		"uniqueName": "Pure Strength",
 		"uniques": ["[+5]% Strength"],
 		"cities": ["Thebes","Memphis","Heliopolis","Elephantine","Alexandria","Pi-Ramesses","Giza","Byblos","Akhetaten",
