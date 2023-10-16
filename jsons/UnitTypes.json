@@ -1,7 +1,8 @@
 [
   {
         "name": "Adventurer",
-        "movementType": "Land"
+        "movementType": "Land", 
+	"promotions": ["Level 1 I"]
   }, 
   {
         "name": "Monster",
