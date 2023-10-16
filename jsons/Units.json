@@ -21,7 +21,7 @@
 		"unitType": "Monster",
 		"uniqueTo": "Barbarians",
 		"movement": 2,
-		"strength": 4,
+		"strength": 6,
 		"cost": 50,
 		"attackSound": "metalhit"
 	},  
@@ -31,7 +31,7 @@
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 10,
-		"cost": 50,
+		"cost": 50, 
 		"attackSound": "metalhit"
 	}, 
 //Vanilla
