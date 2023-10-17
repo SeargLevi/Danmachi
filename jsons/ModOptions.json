@@ -1,1 +1,8 @@
-{"isBaseRuleset":true}
+{
+  "constants": 
+  {
+    "unitSupplyPerPopulation": 3,
+    "maxXPfromBarbarians": 999999
+  }, 
+  "isBaseRuleset":true
+} 
