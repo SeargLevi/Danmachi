@@ -18,5 +18,10 @@
     "name": "Deep Floors", 
  		"startingMilitaryUnitCount": 4,
     "startingMilitaryUnit": "Human"
-  }
+  }, 
+  {
+    "name": "Bottom Floors", 
+ 		"startingMilitaryUnitCount": 5,
+    "startingMilitaryUnit": "Human"
+  } 
 ] 
