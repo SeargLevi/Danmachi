@@ -8,7 +8,7 @@
 		"buildingCostModifier": 1,
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
-		"barbarianBonus": 0.33,
+		"barbarianBonus": 0,
 		"startingUnits": ["Settler"],
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1,
