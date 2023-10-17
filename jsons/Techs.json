@@ -7,11 +7,71 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Agriculture",
+				"name": "Upper Floors",
 				"row": 6,
-				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"quote": "'Time for an Adventure.'", 
 				"uniques": ["Starting tech"]
 			}
 		]
-  }
+	}, 
+	{
+		"columnNumber": 1,
+		"era": "Middle Floors",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Middle Floors",
+				"row": 6,
+				"quote": "'Time for an Adventure.'", 
+				"prerequisites": ["Upper Floors"] 
+			}
+		]
+	}, 
+	{
+		"columnNumber": 2,
+		"era": "Lower Floors",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Lower Floors",
+				"row": 6,
+				"quote": "'Time for an Adventure.'", 
+				"prerequisites": ["Middle Floors"] 
+			}
+		]
+	}, 
+	{
+		"columnNumber": 3,
+		"era": "Deep Floors",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Deep Floors",
+				"row": 6,
+				"quote": "'Time for an Adventure.'", 
+				"prerequisites": ["Lower Floors"] 
+			}
+		]
+	}, 
+	{
+		"columnNumber": 4,
+		"era": "Bottom Floors",
+		"techCost": 20,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Bottom Floors",
+				"row": 6,
+				"quote": "'Time for an Adventure.'", 
+				"prerequisites": ["Deep Floors"] 
+			}
+		]
+	} 
 ] 
