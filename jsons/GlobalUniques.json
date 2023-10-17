@@ -10,6 +10,10 @@
         "[-1] Sight <for [Embarked] units>",
 
         // Filtering uniques must be listed here to tell RulesetValidator they're OK despite untyped
-        "Aircraft", "Monster LV1"
+        "Aircraft", "Monster LV1", "Monster LV2", "Monster LV3", "Monster LV4", "Monster LV5", "Monster LV6",
+        "Monster LV7", "Monster LV8", "Monster LV9", "Monster LV10",
+    
+   		"Cannot build [Settler] units", 
+        
     ] 
 }   
