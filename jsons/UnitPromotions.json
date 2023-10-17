@@ -61,40 +61,83 @@
 //Atk/Def
   {
 		"name": "Attack LV1",
-		"prerequisites": ["Level 1 I"],
+		"prerequisites": ["Level 1 II"],
 		"uniques": ["[+10]% Strength <when attacking>", "[-10]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   },
   {
 		"name": "Attack LV2",
-		"prerequisites": ["Level 2 I"],
+		"prerequisites": ["Level 2 II"],
 		"uniques": ["[+20]% Strength <when attacking>", "[-20]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   }, 
   {
 		"name": "Attack LV3",
-		"prerequisites": ["Level 3 I"],
+		"prerequisites": ["Level 3 II"],
 		"uniques": ["[+40]% Strength <when attacking>", "[-40]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   },  
   {
 		"name": "Defense LV1",
-		"prerequisites": ["Level 1 I"],
+		"prerequisites": ["Level 1 II"],
 		"uniques": ["[-10]% Strength <when attacking>", "[+10]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   }, 
   {
 		"name": "Defense LV2",
-		"prerequisites": ["Level 2 I"],
+		"prerequisites": ["Level 2 II"],
 		"uniques": ["[-20]% Strength <when attacking>", "[+20]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   },  
   {
 		"name": "Defense LV3",
-		"prerequisites": ["Level 3 I"],
+		"prerequisites": ["Level 3 II"],
 		"uniques": ["[-40]% Strength <when attacking>", "[+40]% Strength <when defending>"],
 		"unitTypes": ["Adventurer"],
   },   
+//Speed
+  {
+		"name": "Dodge LV1",
+		"prerequisites": ["Level 1 I"],
+		"uniques": ["May withdraw before melee ([1]%)"],
+		"unitTypes": ["Adventurer"],
+  },   
+  {
+		"name": "Dodge LV2",
+		"prerequisites": ["Level 2 I"],
+		"uniques": ["May withdraw before melee ([2]%)"],
+		"unitTypes": ["Adventurer"],
+  },   
+  {
+		"name": "Dodge LV3",
+		"prerequisites": ["Level 3 I"],
+		"uniques": ["May withdraw before melee ([3]%)"],
+		"unitTypes": ["Adventurer"],
+  },    
+  {
+		"name": "Dodge LV4",
+		"prerequisites": ["Level 4 I"],
+		"uniques": ["May withdraw before melee ([3]%)"],
+		"unitTypes": ["Adventurer"],
+  },     
+  {
+		"name": "Agility LV1",
+		"prerequisites": ["Level 3 I"],
+		"uniques": ["[1] additional attacks per turn"],
+		"unitTypes": ["Adventurer"],
+  },   
+  {
+		"name": "Speed LV1",
+		"prerequisites": ["Level 2 I"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Adventurer"],
+  },    
+  {
+		"name": "Speed LV2",
+		"prerequisites": ["Level 3 I"],
+		"uniques": ["[+1] Movement"],
+		"unitTypes": ["Adventurer"],
+  },     
 //Skills
   {
 		"name": "Liaris Freese",
