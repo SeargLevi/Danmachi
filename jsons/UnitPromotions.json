@@ -96,7 +96,7 @@
   }, 
   {
 		"name": "Level 6 II",
-	 	"prerequisites": ["Level 5 I"], 
+	 	"prerequisites": ["Level 6 I"], 
 		"uniques": ["[+320]% Strength"],
 		"unitTypes": ["Adventurer"],
   },  
@@ -114,7 +114,7 @@
   }, 
   {
 		"name": "Level 7 II",
-	 	"prerequisites": ["Level 6 I"], 
+	 	"prerequisites": ["Level 7 I"], 
 		"uniques": ["[+640]% Strength"],
 		"unitTypes": ["Adventurer"],
   },  
@@ -132,7 +132,7 @@
   }, 
   {
 		"name": "Level 8 II",
-	 	"prerequisites": ["Level 7 I"], 
+	 	"prerequisites": ["Level 8 I"], 
 		"uniques": ["[+1280]% Strength"],
 		"unitTypes": ["Adventurer"],
   },  
