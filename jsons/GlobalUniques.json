@@ -16,6 +16,6 @@
    		"Cannot build [Settler] units", 
         "Nullifies [Science] [in all cities]", 
         "Nullifies [Gold] [in all cities]", 
-        "Gain [9] [9 Man Party] <upon founding a city>" 
+        "Gain [+9] [9 Man Party] <upon founding a city>" 
     ] 
 }   
