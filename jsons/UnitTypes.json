@@ -16,7 +16,8 @@
 	"Gain [1] [Science] <upon defeating a [Monster LV1] unit>", 
 	"Gain [2] [Science] <upon defeating a [Monster LV2] unit>", 
 	"Gain [1] [Gold] <upon defeating a [Monster LV1] unit>", 
-	"Gain [2] [Gold] <upon defeating a [Monster LV2] unit>"
+	"Gain [2] [Gold] <upon defeating a [Monster LV2] unit>", 
+	"Gain [40] [Science] <upon being promoted> <for units with [Level 2 I]>"
 	] 
   }, 
   {
