@@ -45,9 +45,47 @@
 		"strength": 16,
 		"cost": 50,
 		"requiredTech": "Middle Floors", 
-		"uniques": ["Monster LV1"], 
+		"uniques": ["Monster LV1", 
+		"[2] free [Almiraj] units appear <when attacking> <with [20]% chance>"], 
 		"attackSound": "metalhit"
 	},  
+	{
+		"name": "Minotaur",
+		"unitType": "Monster",
+		"uniqueTo": "Barbarians",
+		"movement": 2,
+		"strength": 38,
+		"cost": 50,
+		"requiredTech": "Middle Floors", 
+		"uniques": ["Monster LV2"], 
+		"attackSound": "metalhit"
+	},   
+//Lower Floors
+	{
+		"name": "Iguazu",
+		"unitType": "Monster",
+		"uniqueTo": "Barbarians",
+		"movement": 7,
+		"strength": 30,
+		"cost": 50,
+		"requiredTech": "Lower Floors", 
+		"uniques": ["Monster LV3", 
+			"Self-destructs when attacking", "[3] free [Iguazu] units appear <when attacking> <with [15]% chance>"], 
+		"attackSound": "metalhit"
+	},  
+//Deep Floors
+	{
+		"name": "Lambton",
+		"unitType": "Monster",
+		"uniqueTo": "Barbarians",
+		"movement": 3,
+		"strength": 120,
+		"cost": 50,
+		"requiredTech": "Deep Floors", 
+		"uniques": ["Monster LV4", 
+		"Can pass through impassable tiles"], 
+		"attackSound": "metalhit"
+	},   
 //Characters
 	{
 		"name": "Bell Cranel",
