@@ -14,7 +14,6 @@
         "Monster LV7", "Monster LV8", "Monster LV9", "Monster LV10",
     
    		"Cannot build [Settler] units", 
-        "Nullifies [Science] [in all cities]", 
-        "[+1 Food] [in all cities] <upon defeating a [Monster LV1] unit>"
+        "Nullifies [Science] [in all cities]"
     ] 
 }   
