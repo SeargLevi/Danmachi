@@ -13,8 +13,7 @@
 	"This Unit gains [7] XP <upon defeating a [Monster LV7] unit>", 
 	"This Unit gains [8] XP <upon defeating a [Monster LV8] unit>", 
 	"This Unit gains [9] XP <upon defeating a [Monster LV9] unit>", 
-	"Gain [1] [Science] <upon defeating a [Monster LV1] unit>", 
-	"Gain [1] [Food] <upon defeating a [Monster LV1] unit>" 
+	"Gain [1] [Science, Gold] <upon defeating a [Monster LV1] unit>"
 	] 
   }, 
   {
