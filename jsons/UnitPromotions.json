@@ -329,4 +329,11 @@
 			"[+20]% Strength <for units with [Level 2 I]>"],
   }, 
 //Magic
+
+//Parties
+  {
+	  	"name": "9 Man Party",
+	 	"uniques": ["Only available <with [9 Man Party]>", "Gain [-1] [9 Man Party]"], 
+	 	"unitTypes": ["Adventurer"]
+  } 
 ] 
