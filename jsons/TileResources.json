@@ -1,4 +1,9 @@
 [	
+	{
+		"name": "9 Men Party",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled"]
+	}, 
 	// Bonus resources
 	{
 		"name": "Cattle",
