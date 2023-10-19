@@ -16,6 +16,19 @@
    		"Cannot build [Settler] units", 
         "Nullifies [Science] [in all cities]", 
         "Nullifies [Gold] [in all cities]", 
-        "Instantly provides [9] [Squad 1]"
+        "Instantly provides [9] [Squad 1]", 
+        "Instantly provides [6] [Squad 2]", 
+        "Instantly provides [4] [Squad 3]",
+        "Instantly provides [4] [Squad 4]",
+        "Instantly provides [4] [Squad 5]",
+        "[+10]% Strength <when attacking>",
+		"[+20]% Strength <when attacking> <for units with [Level 2 I]>", 
+        "[+40]% Strength <when attacking> <for units with [Level 3 I]>",
+        "[+80]% Strength <when attacking> <for units with [Level 4 I]>", 
+        "[+160]% Strength <when attacking> <for units with [Level 5 I]>", 
+        "[+320]% Strength <when attacking> <for units with [Level 6 I]>", 
+        "[+640]% Strength <when attacking> <for units with [Level 7 I]>", 
+        "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
+        "[+2560]% Strength <when attacking> <for units with [Level 9 I]>"
     ] 
 }   
