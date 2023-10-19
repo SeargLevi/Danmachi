@@ -332,8 +332,9 @@
 
 //Parties
   {
-	  	"name": "9 Man Party",
-	 	"uniques": ["Only available <with [9 Man Party]>", "Gain [-1] [9 Man Party]"], 
+	  	"name": "1st Squad",
+	 	"uniques": ["Only available <with [1st Squad]>", "Consumes [1] [1st Squad]", 
+			"[+10]% Strength <for units with [1st Squad]>"], 
 	 	"unitTypes": ["Adventurer"]
   } 
 ] 
