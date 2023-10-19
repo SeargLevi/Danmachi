@@ -2,7 +2,7 @@
 	{
 		"name": "Squad 1",
 		"resourceType": "Strategic", 
-		"uniques": ["Cannot be traded", "Stockpiled", "Not shown on world screen"]
+		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
 	{
 		"name": "Squad 2",
@@ -32,7 +32,7 @@
 	{
 		"name": "Goliath Hard Skin",
 		"resourceType": "Strategic", 
-		"uniques": ["Cannot be traded", "Stockpiled", "Not shown on world screen"]
+		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
 	// Bonus resources
 	{
