@@ -16,6 +16,6 @@
    		"Cannot build [Settler] units", 
         "Nullifies [Science] [in all cities]", 
         "Nullifies [Gold] [in all cities]", 
-        "Provides [9] [Squad 1]"
+        "Provides [9] [Squad 1] <once>"
     ] 
 }   
