@@ -2,7 +2,7 @@
 	{
 		"name": "Squad 1",
 		"resourceType": "Strategic", 
-		"uniques": ["Cannot be traded"]
+		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
 	// Bonus resources
 	{
