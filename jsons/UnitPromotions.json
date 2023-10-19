@@ -142,6 +142,24 @@
 		"uniques": ["[+2560]% Strength"],
 		"unitTypes": ["Adventurer"]
   },      
+  {
+		"name": "Level 9 I",
+	 	"prerequisites": ["Attack LV8", "Defense LV8"], 
+		"uniques": ["[+8960]% Strength", "Only available <for units with [Level 8 III]>"],
+		"unitTypes": ["Adventurer"]
+  }, 
+  {
+		"name": "Level 9 II",
+	 	"prerequisites": ["Level 9 I"], 
+		"uniques": ["[+2560]% Strength"],
+		"unitTypes": ["Adventurer"]
+  },  
+  {
+		"name": "Level 9 III",
+	 	"prerequisites": ["Level 9 II"], 
+		"uniques": ["[+5120]% Strength"],
+		"unitTypes": ["Adventurer"]
+  },      
 //Atk/Def
   {
 		"name": "Attack LV1",
