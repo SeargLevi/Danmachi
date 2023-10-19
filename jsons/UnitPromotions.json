@@ -333,7 +333,8 @@
 //Parties
   {
 	  	"name": "1st Squad",
-	 	"uniques": ["Only available <with [Squad 1]>", "Consumes [1] [Squad 1]", 
+	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
+			"Instantly provides [1] [Squad 1] <upon being defeated>",
 			"[+10]% Strength <for units with [1st Squad]>"], 
 	 	"unitTypes": ["Adventurer"]
   } 
