@@ -59,6 +59,7 @@
 		"requiredTech": "Middle Floors", 
 		"uniques": ["Monster LV2", 
 		"[-50]% Strength for enemy [Adventurer] units in adjacent [All] tiles <for units without [Level 2 I]>"], 
+		"replacementTextForUniques": "hello, hello", 
 		"attackSound": "metalhit"
 	},   
 //Lower Floors
