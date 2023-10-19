@@ -2,6 +2,26 @@
 	{
 		"name": "Squad 1",
 		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled", "Not shown on world screen"]
+	}, 
+	{
+		"name": "Squad 2",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled"]
+	}, 
+	{
+		"name": "Squad 3",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled"]
+	},
+	{
+		"name": "Squad 4",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled"]
+	}, 
+	{
+		"name": "Squad 5",
+		"resourceType": "Strategic", 
 		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
 	// Bonus resources
