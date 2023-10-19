@@ -360,7 +360,7 @@
 	  	"name": "1st Squad",
 	 	"uniques": ["Instantly consumes [1] [Squad 1]", 
 		"Instantly provides [1] [Squad 1] <upon being defeated>",
-		"[+10]% Strength <when adjacent to a [1st Squad] unit>"], 
+		"1st Squad", "[+10]% Strength <when adjacent to a [1st Squad] unit>"], 
 	 	"unitTypes": ["Adventurer"]
   } 
 ] 
