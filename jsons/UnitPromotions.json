@@ -358,17 +358,9 @@
 //Parties
   {
 	  	"name": "1st Squad",
-	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
+	 	"uniques": ["Instantly consumes [1] [Squad 1]", 
 		"Instantly provides [1] [Squad 1] <upon being defeated>",
-		"[+10]% Strength <when adjacent to a [1st Squad] unit>", 
-		"[+20]% Strength <for units with [1st Squad]> <for units with [Level 2 I]>",
-		"[+40]% Strength <for units with [1st Squad]> <for units with [Level 3 I]>",
-		"[+80]% Strength <for units with [1st Squad]> <for units with [Level 4 I]>",
-		"[+160]% Strength <for units with [1st Squad]> <for units with [Level 5 I]>",
-		"[+320]% Strength <for units with [1st Squad]> <for units with [Level 6 I]>",
-		"[+640]% Strength <for units with [1st Squad]> <for units with [Level 7 I]>",
-		"[+1280]% Strength <for units with [1st Squad]> <for units with [Level 8 I]>",
-		"[+2560]% Strength <for units with [1st Squad]> <for units with [Level 9 I]>"], 
+		"[+10]% Strength <when adjacent to a [1st Squad] unit>"], 
 	 	"unitTypes": ["Adventurer"]
   } 
 ] 
