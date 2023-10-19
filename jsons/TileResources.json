@@ -24,6 +24,16 @@
 		"resourceType": "Strategic", 
 		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
+	{
+		"name": "Minotaur Horn",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled"]
+	}, 
+	{
+		"name": "Goliath Hard Skin",
+		"resourceType": "Strategic", 
+		"uniques": ["Cannot be traded", "Stockpiled", "Not shown on world screen"]
+	}, 
 	// Bonus resources
 	{
 		"name": "Cattle",
