@@ -342,7 +342,7 @@
 	  	"name": "1st Squad",
 	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
 		"Instantly provides [1] [Squad 1] <upon being defeated>",
-		"[+10]% Strength <for units with [1st Squad]>", 
+		"[+10]% Strength <when adjacent to a [1st Squad] unit>", 
 		"[+20]% Strength <for units with [1st Squad]> <for units with [Level 2 I]>",
 		"[+40]% Strength <for units with [1st Squad]> <for units with [Level 3 I]>",
 		"[+80]% Strength <for units with [1st Squad]> <for units with [Level 4 I]>",
