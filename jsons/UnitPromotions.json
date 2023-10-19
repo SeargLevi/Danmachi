@@ -2,255 +2,255 @@
 //Level 1-9,
   {
 		"name": "Level 1 I",
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 1 II",
 	 	"prerequisites": ["Level 1 I"], 
 		"uniques": ["[+10]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Level 1 III",
 	 	"prerequisites": ["Level 1 II"], 
 		"uniques": ["[+20]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Level 2 I",
 		"prerequisites": ["Attack LV1", "Defense LV1"],
 		"uniques": ["[+70]% Strength", "Only available <for units with [Level 1 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Level 2 II",
 	 	"prerequisites": ["Level 2 I"], 
 		"uniques": ["[+20]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 2 III",
 	 	"prerequisites": ["Level 2 II"], 
 		"uniques": ["[+40]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Level 3 I",
 	 	"prerequisites": ["Attack LV2", "Defense LV2"], 
 		"uniques": ["[+140]% Strength", "Only available <for units with [Level 2 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Level 3 II",
 	 	"prerequisites": ["Level 3 I"], 
 		"uniques": ["[+40]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 3 III",
 	 	"prerequisites": ["Level 3 II"], 
 		"uniques": ["[+80]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 4 I",
 	 	"prerequisites": ["Attack LV3", "Defense LV3"], 
 		"uniques": ["[+280]% Strength", "Only available <for units with [Level 3 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 4 II",
 	 	"prerequisites": ["Level 4 I"], 
 		"uniques": ["[+80]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 4 III",
 	 	"prerequisites": ["Level 4 II"], 
 		"uniques": ["[+160]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 5 I",
 	 	"prerequisites": ["Attack LV4", "Defense LV4"], 
 		"uniques": ["[+560]% Strength", "Only available <for units with [Level 4 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 5 II",
 	 	"prerequisites": ["Level 5 I"], 
 		"uniques": ["[+160]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 5 III",
 	 	"prerequisites": ["Level 5 II"], 
 		"uniques": ["[+320]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Level 6 I",
 	 	"prerequisites": ["Attack LV5", "Defense LV5"], 
 		"uniques": ["[+1120]% Strength", "Only available <for units with [Level 5 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 6 II",
 	 	"prerequisites": ["Level 6 I"], 
 		"uniques": ["[+320]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 6 III",
 	 	"prerequisites": ["Level 6 II"], 
 		"uniques": ["[+640]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },    
   {
 		"name": "Level 7 I",
 	 	"prerequisites": ["Attack LV6", "Defense LV6"], 
 		"uniques": ["[+2240]% Strength", "Only available <for units with [Level 6 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 7 II",
 	 	"prerequisites": ["Level 7 I"], 
 		"uniques": ["[+640]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 7 III",
 	 	"prerequisites": ["Level 7 II"], 
 		"uniques": ["[+1280]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Level 8 I",
 	 	"prerequisites": ["Attack LV7", "Defense LV7"], 
 		"uniques": ["[+4480]% Strength", "Only available <for units with [Level 7 III]>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Level 8 II",
 	 	"prerequisites": ["Level 8 I"], 
 		"uniques": ["[+1280]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Level 8 III",
 	 	"prerequisites": ["Level 8 II"], 
 		"uniques": ["[+2560]% Strength"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },      
 //Atk/Def
   {
 		"name": "Attack LV1",
 		"prerequisites": ["Level 1 II"],
 		"uniques": ["[+10]% Strength <when attacking>", "[-10]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },
   {
 		"name": "Attack LV2",
 		"prerequisites": ["Level 2 II"],
 		"uniques": ["[+20]% Strength <when attacking>", "[-20]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Attack LV3",
 		"prerequisites": ["Level 3 II"],
 		"uniques": ["[+40]% Strength <when attacking>", "[-40]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"] 
   },  
   {
 		"name": "Attack LV4",
 		"prerequisites": ["Level 4 II"],
 		"uniques": ["[+80]% Strength <when attacking>", "[-80]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Attack LV5",
 		"prerequisites": ["Level 5 II"],
 		"uniques": ["[+160]% Strength <when attacking>", "[-160]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },    
   {
 		"name": "Attack LV6",
 		"prerequisites": ["Level 6 II"],
 		"uniques": ["[+320]% Strength <when attacking>", "[-320]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Attack LV7",
 		"prerequisites": ["Level 7 II"],
 		"uniques": ["[+640]% Strength <when attacking>", "[-640]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },      
   {
 		"name": "Attack LV8",
 		"prerequisites": ["Level 8 II"],
 		"uniques": ["[+1280]% Strength <when attacking>", "[-1280]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },       
   {
 		"name": "Defense LV1",
 		"prerequisites": ["Level 1 II"],
 		"uniques": ["[-10]% Strength <when attacking>", "[+10]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   }, 
   {
 		"name": "Defense LV2",
 		"prerequisites": ["Level 2 II"],
 		"uniques": ["[-20]% Strength <when attacking>", "[+20]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },  
   {
 		"name": "Defense LV3",
 		"prerequisites": ["Level 3 II"],
 		"uniques": ["[-40]% Strength <when attacking>", "[+40]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Defense LV4",
 		"prerequisites": ["Level 4 II"],
 		"uniques": ["[-80]% Strength <when attacking>", "[+80]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },    
   {
 		"name": "Defense LV5",
 		"prerequisites": ["Level 5 II"],
 		"uniques": ["[-160]% Strength <when attacking>", "[+160]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Defense LV6",
 		"prerequisites": ["Level 6 II"],
 		"uniques": ["[-320]% Strength <when attacking>", "[+320]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },      
   {
 		"name": "Defense LV7",
 		"prerequisites": ["Level 7 II"],
 		"uniques": ["[-640]% Strength <when attacking>", "[+640]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },       
   {
 		"name": "Defense LV8",
 		"prerequisites": ["Level 8 II"],
 		"uniques": ["[-1280]% Strength <when attacking>", "[+1280]% Strength <when defending>"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },        
 //Speed
   {
 		"name": "Dodge LV1",
 		"prerequisites": ["Level 1 I"],
 		"uniques": ["May withdraw before melee ([1]%)"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Dodge LV2",
 		"prerequisites": ["Level 2 I"],
 		"uniques": ["May withdraw before melee ([2]%)"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Dodge LV3",
@@ -262,71 +262,78 @@
 		"name": "Dodge LV4",
 		"prerequisites": ["Level 4 I"],
 		"uniques": ["May withdraw before melee ([4]%)"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Dodge LV5",
 		"prerequisites": ["Level 5 I"],
 		"uniques": ["May withdraw before melee ([5]%)"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },      
   {
 		"name": "Dodge LV6",
 		"prerequisites": ["Level 6 I"],
 		"uniques": ["May withdraw before melee ([6]%)"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Agility LV1",
 		"prerequisites": ["Level 3 I"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },   
   {
 		"name": "Agility LV2",
 		"prerequisites": ["Level 5 I"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },    
   {
 		"name": "Agility LV3",
 		"prerequisites": ["Level 8 I"],
 		"uniques": ["[1] additional attacks per turn"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Speed LV1",
 		"prerequisites": ["Level 2 I"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },    
   {
 		"name": "Speed LV2",
 		"prerequisites": ["Level 4 I"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
   {
 		"name": "Speed LV3",
 		"prerequisites": ["Level 6 I"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },      
   {
 		"name": "Speed LV4",
 		"prerequisites": ["Level 8 I"],
 		"uniques": ["[+1] Movement"],
-		"unitTypes": ["Adventurer"],
+		"unitTypes": ["Adventurer"]
   },     
 //Skills
   {
 		"name": "Liaris Freese",
-		"uniques": ["[+100]% XP gained from combat <while the empire is happy>"],
+		"uniques": ["[+100]% XP gained from combat <while the empire is happy>"]
   },
   {
 		"name": "Argonaut",
 		"uniques": ["[+10]% Strength",
-			"[+20]% Strength <for units with [Level 2 I]>"],
+		"[+20]% Strength <for units with [Level 2 I]>", 
+		"[+40]% Strength <for units with [Level 3 I]>",
+		"[+80]% Strength <for units with [Level 4 I]>", 
+		"[+160]% Strength <for units with [Level 5 I]>", 
+		"[+320]% Strength <for units with [Level 6 I]>", 
+		"[+640]% Strength <for units with [Level 7 I]>",
+		"[+1280]% Strength <for units with [Level 8 I]>",
+		"[+2560]% Strength <for units with [Level 9 I]>"]
   }, 
 //Magic
 
@@ -334,8 +341,16 @@
   {
 	  	"name": "1st Squad",
 	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
-			"Instantly provides [1] [Squad 1] <upon being defeated>",
-			"[+10]% Strength <for units with [1st Squad]>"], 
+		"Instantly provides [1] [Squad 1] <upon being defeated>",
+		"[+10]% Strength <for units with [1st Squad]>", 
+		"[+20]% Strength <for units with [1st Squad]> <for units with [Level 2 I]>",
+		"[+40]% Strength <for units with [1st Squad]> <for units with [Level 3 I]>",
+		"[+80]% Strength <for units with [1st Squad]> <for units with [Level 4 I]>",
+		"[+160]% Strength <for units with [1st Squad]> <for units with [Level 5 I]>",
+		"[+320]% Strength <for units with [1st Squad]> <for units with [Level 6 I]>",
+		"[+640]% Strength <for units with [1st Squad]> <for units with [Level 7 I]>",
+		"[+1280]% Strength <for units with [1st Squad]> <for units with [Level 8 I]>",
+		"[+2560]% Strength <for units with [1st Squad]> <for units with [Level 9 I]>"], 
 	 	"unitTypes": ["Adventurer"]
   } 
 ] 
