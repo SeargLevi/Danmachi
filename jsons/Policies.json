@@ -78,12 +78,9 @@
                 "column": 3
             },
             {
-                "name": "Exploration Complete",
-                "uniques": [
-                    "[+15]% growth [in all cities]"
-                ]
+                "name": "Exploration Complete"
             }
         ]
-    }, 
+    }
 
 ] 
