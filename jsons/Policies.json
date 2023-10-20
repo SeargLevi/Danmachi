@@ -10,92 +10,69 @@
         "policies": [
             {
                 "name": "Rank I",
-                "uniques": [
-                    "[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"
-                ],
+                "uniques": ["[+10]% Strength"],
                 "row": 1,
                 "column": 1
             },
             {
                 "name": "Rank H",
-                "uniques": [
-                    "Provides the cheapest [Culture] building in your first [4] cities for free"
-                ],
+                "uniques": ["[+20]% Strength <for units with [Level 2 I]>"],
                 "requires": ["Rank I"], 
                 "row": 1,
                 "column": 3
             },
             {
                 "name": "Rank G",
-                "uniques": [
-                    "Units in cities cost no Maintenance",
-                    "[+50]% Strength for cities <with a garrison> <when attacking>"
-                ],
+                "uniques": ["[+40]% Strength <for units with [Level 3 I]>"],
                 "requires": ["Rank H"],
                 "row": 1,
                 "column": 5
             },
             {
                 "name": "Rank F",
-                "uniques": [
-                    "[+10]% growth [in capital]",
-                    "[+2 Food] [in capital]"
-                ],
+                "uniques": ["[+80]% Strength <for units with [Level 4 I]>"],
                 "requires": ["Rank G"],
                 "row": 2,
                 "column": 5
             },
             {
                 "name": "Rank E",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques": ["[+160]% Strength <for units with [Level 5 I]>"],
                 "requires": ["Rank F"],
                 "row": 2,
                 "column": 3
             },
             {
                 "name": "Rank D",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques": ["[+320]% Strength <for units with [Level 6 I]>"],
                 "requires": ["Rank E"],
                 "row": 2,
                 "column": 1
             },
             {
                 "name": "Rank C",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques": ["[+640]% Strength <for units with [Level 7 I]>"],
                 "requires": ["Rank D"],
                 "row": 3,
                 "column": 1
             },
             {
                 "name": "Rank B",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques": ["[+1280]% Strength <for units with [Level 8 I]>"],
                 "requires": ["Rank C"],
                 "row": 3,
                 "column": 3
             },
             {
                 "name": "Rank A",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques": ["[+2560]% Strength <for units with [Level 9 I]>"],
                 "requires": ["Rank B"],
                 "row": 3,
                 "column": 5
             },
             {
                 "name": "Rank S",
-                "uniques": [
-                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
-                ],
+                "uniques":  ["[+2560]% Strength <for units with [Level 9 I]>"], 
                 "requires": ["Rank A"],
                 "row": 4,
                 "column": 3
