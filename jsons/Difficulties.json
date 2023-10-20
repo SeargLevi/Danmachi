@@ -6,7 +6,7 @@
 		"researchCostModifier": 1,
 		"unitCostModifier": 1,
 		"buildingCostModifier": 1,
-		"policyCostModifier": 1,
+		"policyCostModifier": 5,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0,
 		"startingUnits": ["Settler"],
