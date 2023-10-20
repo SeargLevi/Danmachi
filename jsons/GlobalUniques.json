@@ -29,6 +29,8 @@
         "[+320]% Strength <when attacking> <for units with [Level 6 I]>", 
         "[+640]% Strength <when attacking> <for units with [Level 7 I]>", 
         "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
-        "[+2560]% Strength <when attacking> <for units with [Level 9 I]>"
+        "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
+
+	"All newly-trained [Adventurer] units [in all cities] receive the [Skill] promotion <with [50]% chance>"
     ] 
 }   
