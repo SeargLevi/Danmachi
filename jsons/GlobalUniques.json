@@ -31,5 +31,7 @@
         "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
         "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
 
+	"[-20]% Strength <when defending> <for [4] turns>"
+
     ] 
 }   
