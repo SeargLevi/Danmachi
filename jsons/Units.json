@@ -90,9 +90,17 @@
 //Characters
 	{
 		"name": "Bell Cranel",
-		"unitType": "Adventurer",
+		"unitType": "Character",
 		"movement": 2,
-		"strength": 10,
+		"strength": 280,
+		"cost": 50, 
+		"attackSound": "metalhit"
+	}, 
+	{
+		"name": "Ais Wallenstein",
+		"unitType": "Character",
+		"movement": 2,
+		"strength": 400,
 		"cost": 50, 
 		"attackSound": "metalhit"
 	}, 
