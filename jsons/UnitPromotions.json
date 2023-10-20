@@ -339,11 +339,13 @@
 //Skills
   {
 		"name": "Liaris Freese",
-		"uniques": ["[+100]% XP gained from combat <while the empire is happy>"]
+		"uniques": ["Only available <for units without [Argonaut]>", 
+			"[+100]% XP gained from combat <while the empire is happy>"]
   },
   {
 		"name": "Argonaut",
-		"uniques": ["[+10]% Strength",
+		"uniques": ["Only available <for units without [Liaris Freese]>", 
+		"[+10]% Strength",
 		"[+20]% Strength <for units with [Level 2 I]>", 
 		"[+40]% Strength <for units with [Level 3 I]>",
 		"[+80]% Strength <for units with [Level 4 I]>", 
