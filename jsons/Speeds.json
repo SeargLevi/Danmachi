@@ -8,7 +8,7 @@
         "cultureCostModifier": 1.0,
         "faithCostModifier": 1.0,
         "improvementBuildLengthModifier": 1.0,
-        "barbarianModifier": 0.5,
+        "barbarianModifier": 0.4,
         "goldGiftModifier": 1.0,
         "cityStateTributeScalingInterval": 6.5,
         "goldenAgeLengthModifier": 1.0,
