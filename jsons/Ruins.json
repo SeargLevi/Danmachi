@@ -1,5 +1,14 @@
 [ 
-  { "name": "discover cultural artifacts",
-		"notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-		"uniques": ["Gain [20] [Culture]"], "color": "#cf8ff7" }
+    {
+        "name": "a stash of gold",
+        "notification": "", // trigger notification only
+        "uniques": ["Gain [200]-[500] [Gold]"],
+        "color": "#ffeb7f"
+    }, 
+    {
+        "name": "unit spawn",
+        "notification": "", // trigger notification only
+        "uniques": ["Free [Human] found in the ruins"],
+        "color": "#ffeb7f"
+    },
 ] 
