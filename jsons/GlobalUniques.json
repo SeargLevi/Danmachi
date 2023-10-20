@@ -5,7 +5,6 @@
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
         "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
-        "Cannot build [Settler] units <when below [-10] Happiness>",
         "Rebel units may spawn <when below [-20] Happiness>",
         "[-1] Sight <for [Embarked] units>",
 
@@ -16,6 +15,7 @@
    	"Cannot build [Settler] units", 
         "Nullifies [Science] [in all cities]", 
         "Nullifies [Gold] [in all cities]", 
+	"Nullifies [Production] [in all cities]",
         "Instantly provides [9] [Squad 1]", 
         "Instantly provides [6] [Squad 2]", 
         "Instantly provides [4] [Squad 3]",
@@ -29,9 +29,7 @@
         "[+320]% Strength <when attacking> <for units with [Level 6 I]>", 
         "[+640]% Strength <when attacking> <for units with [Level 7 I]>", 
         "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
-        "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
-
-	"[-20]% Strength <when defending> <for [4] turns>"
+        "[+2560]% Strength <when attacking> <for units with [Level 9 I]>"
 
     ] 
 }   
