@@ -108,28 +108,5 @@
             }
         ]
     }, 
-    {
-        "name": "Business",
-        "era": "Upper Floors",
-        "uniques": ["[+1 Gold] per [1] population [in capital]", 
-            "Only available <before adopting [Exploration]>",
-            "Only available <before adopting [Industrial]>", 
-       		"Only available <before adopting [Medicinal]>"] 
-    }, 
-    {
-        "name": "Industrial",
-        "era": "Upper Floors",
-        "uniques": ["[+1 Production] per [2] population [in capital]", 
-            "Only available <before adopting [Business]>",
-            "Only available <before adopting [Exploration]>", 
-       		"Only available <before adopting [Medicinal]>"]
-    }, 
-        {
-        "name": "Medicinal",
-        "era": "Upper Floors",
-        "uniques": ["[+3] HP when healing", 
-            "Only available <before adopting [Business]>",
-            "Only available <before adopting [Industrial]>", 
-       		"Only available <before adopting [Exploration]>"]
-    }
+
 ] 
