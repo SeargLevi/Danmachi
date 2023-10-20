@@ -24,12 +24,7 @@
         "name": "Monster",
         "movementType": "Land", 
 	"uniques": ["[+200]% Strength <in [Barbarian encampment] tiles>"] 
-  }, 
-  {
-        "name": "Character",
-        "movementType": "Land", 
-	"uniques": ["Great Person - [War]", "Unbuildable", "Uncapturable"] 
-  }, 
+  },
   {
         "name": "Civilian",
         "movementType": "Land"
