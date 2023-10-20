@@ -339,7 +339,7 @@
 //Equipment
   {
 		"name": "Ushiwakamaru", 
-		"uniques": ["Only available <if [Forge] is constructed>", "Instantly consumes [1] [Minotaur Horn]", 
+		"uniques": ["Only available <if [Forge] is constructed>", "Only available <with [Minotaur Horn]>", "Instantly consumes [1] [Minotaur Horn]", 
 		"[+5]% Strength", 
 		"[+10]% Strength <for units with [Level 2 I]>",
 		"[+20]% Strength <for units with [Level 3 I]>",
@@ -353,7 +353,7 @@
   },     
   {
 		"name": "Goliath Robe", 
-		"uniques": ["Instantly consumes [1] [Goliath Hard Skin]", 
+		"uniques": ["Only available <with [Goliath Hard Skin]>", "Instantly consumes [1] [Goliath Hard Skin]", 
 		"[+5]% Strength <when defending>", 
 		"[+10]% Strength <for units with [Level 2 I]> <when defending>",
 		"[+20]% Strength <for units with [Level 3 I]> <when defending>",
@@ -387,7 +387,7 @@
 //Parties
   {
 	  	"name": "1st Squad",
-	 	"uniques": ["Instantly consumes [1] [Squad 1]", 
+	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
 		"Instantly provides [1] [Squad 1] <upon being defeated>",
 		"1st Squad", "[+10]% Strength <when adjacent to a [1st Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [1st Squad] unit>", 
@@ -402,7 +402,7 @@
   }, 
   {
 	  	"name": "2nd Squad",
-	 	"uniques": ["Instantly consumes [1] [Squad 2]", 
+	 	"uniques": ["Only available <with [Squad 2]>", "Instantly consumes [1] [Squad 2]", 
 		"Instantly provides [1] [Squad 2] <upon being defeated>",
 		"2nd Squad", "[+10]% Strength <when adjacent to a [2nd Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [2nd Squad] unit>", 
@@ -417,7 +417,7 @@
   }, 
   {
 	  	"name": "3rd Squad",
-	 	"uniques": ["Instantly consumes [1] [Squad 3]", 
+	 	"uniques": ["Only available <with [Squad 3]>", "Instantly consumes [1] [Squad 3]", 
 		"Instantly provides [1] [Squad 3] <upon being defeated>",
 		"1st Squad", "[+10]% Strength <when adjacent to a [3rd Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [3rd Squad] unit>", 
