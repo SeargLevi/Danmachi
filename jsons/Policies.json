@@ -9,7 +9,7 @@
        
         "policies": [
             {
-                "name": "Aristocracy",
+                "name": "Rank I",
                 "uniques": [
                     "[+15]% Production when constructing [All] wonders [in all cities]",
                     "[+1 Happiness] per [10] population [in all cities]"
@@ -18,40 +18,87 @@
                 "column": 1
             },
             {
-                "name": "Legalism",
+                "name": "Rank H",
                 "uniques": [
                     "Provides the cheapest [Culture] building in your first [4] cities for free"
                 ],
+                "requires": ["Rank I"], 
                 "row": 1,
-                "column": 3
+                "column": 2
             },
             {
-                "name": "Oligarchy",
+                "name": "Rank G",
                 "uniques": [
                     "Units in cities cost no Maintenance",
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
+                "requires": ["Rank H"],
                 "row": 1,
-                "column": 5
+                "column": 3
             },
             {
-                "name": "Landed Elite",
+                "name": "Rank F",
                 "uniques": [
                     "[+10]% growth [in capital]",
                     "[+2 Food] [in capital]"
                 ],
-                "requires": ["Legalism"],
-                "row": 2,
-                "column": 2
+                "requires": ["Rank G"],
+                "row": 1,
+                "column": 4
             },
             {
-                "name": "Monarchy",
+                "name": "Rank E",
                 "uniques": [
                     "[+1 Gold, +1 Happiness] per [2] population [in capital]"
                 ],
-                "requires": ["Legalism"],
+                "requires": ["Rank F"],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Rank D",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Rank E"],
                 "row": 2,
-                "column": 4
+                "column": 5
+            },
+            {
+                "name": "Rank C",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Rank D"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Rank B",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Rank C"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Rank A",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Rank B"],
+                "row": 3,
+                "column": 3
+            },
+            {
+                "name": "Rank S",
+                "uniques": [
+                    "[+1 Gold, +1 Happiness] per [2] population [in capital]"
+                ],
+                "requires": ["Rank A"],
+                "row": 4,
+                "column": 3
             },
             {
                 "name": "Exploration Complete",
