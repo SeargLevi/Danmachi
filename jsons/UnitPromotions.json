@@ -339,7 +339,7 @@
 //Equipment
   {
 		"name": "Ushiwakamaru", 
-		"uniques": ["Instantly consumes [1] [Minotaur Horn]", 
+		"uniques": ["Only available <if [Forge] is constructed>", "Instantly consumes [1] [Minotaur Horn]", 
 		"[+5]% Strength", 
 		"[+10]% Strength <for units with [Level 2 I]>",
 		"[+20]% Strength <for units with [Level 3 I]>",
