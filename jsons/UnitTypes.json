@@ -2,7 +2,7 @@
   {
         "name": "Adventurer",
         "movementType": "Land", 
-	"uniques": ["Never appears as a Barbarian unit", 
+	"uniques": ["Never appears as a Barbarian unit", "[Great General] is earned [+9999]% faster", 
 	"This Unit gains the [Level 1 I] promotion", 
 	"This Unit gains [1] XP <upon defeating a [Monster LV1] unit>", 
 	"This Unit gains [2] XP <upon defeating a [Monster LV2] unit>",
