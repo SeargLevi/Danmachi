@@ -12,11 +12,11 @@
 	{
 		"name": "Store",
 		"cost": 90,
-		"uniques": [""]
+		"gold": 2
 	}, 
 	{
 		"name": "Forge",
 		"cost": 90,
-		"uniques": [""]
+		"gold": 1
 	}, 
 ]
