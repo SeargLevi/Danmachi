@@ -88,22 +88,6 @@
 		"attackSound": "metalhit"
 	},   
 //Characters
-	{
-		"name": "Bell Cranel",
-		"unitType": "Character",
-		"movement": 2,
-		"strength": 280,
-		"cost": 50, 
-		"attackSound": "metalhit"
-	}, 
-	{
-		"name": "Ais Wallenstein",
-		"unitType": "Character",
-		"movement": 2,
-		"strength": 400,
-		"cost": 50, 
-		"attackSound": "metalhit"
-	}, 
 //Vanilla
 	{
 		"name": "Worker",
