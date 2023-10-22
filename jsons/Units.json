@@ -23,8 +23,31 @@
 		"cost": 60,
 		"attackSound": "metalhit"
 	},
+	{
+		"name": "Elf",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Pallum",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 10,
+		"cost": 50,
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Werewolf",
+		"unitType": "Adventurer",
+		"movement": 2,
+		"strength": 10,
+		"cost": 00,
+		"attackSound": "metalhit"
+	},
 //Monster
-
 //Upper Floors 
 	{
 		"name": "Goblin",
