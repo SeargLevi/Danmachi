@@ -388,7 +388,7 @@
   {
 	  	"name": "1st Squad",
 	 	"uniques": ["Only available <with [Squad 1]>", "Instantly consumes [1] [Squad 1]", 
-		"Instantly provides [1] [Squad 1] <upon being defeated>",
+		"Instantly provides [1] [Squad 1] <upon being defeated>", "This Promotion is free",
 		"1st Squad", "[+10]% Strength <when adjacent to a [1st Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [1st Squad] unit>", 
 		"[+40]% Strength <for units with [Level 3 I]> <when adjacent to a [1st Squad] unit>", 
@@ -403,7 +403,7 @@
   {
 	  	"name": "2nd Squad",
 	 	"uniques": ["Only available <with [Squad 2]>", "Instantly consumes [1] [Squad 2]", 
-		"Instantly provides [1] [Squad 2] <upon being defeated>",
+		"Instantly provides [1] [Squad 2] <upon being defeated>", "This Promotion is free",
 		"2nd Squad", "[+10]% Strength <when adjacent to a [2nd Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [2nd Squad] unit>", 
 		"[+40]% Strength <for units with [Level 3 I]> <when adjacent to a [2nd Squad] unit>", 
@@ -418,7 +418,7 @@
   {
 	  	"name": "3rd Squad",
 	 	"uniques": ["Only available <with [Squad 3]>", "Instantly consumes [1] [Squad 3]", 
-		"Instantly provides [1] [Squad 3] <upon being defeated>",
+		"Instantly provides [1] [Squad 3] <upon being defeated>", "This Promotion is free", 
 		"1st Squad", "[+10]% Strength <when adjacent to a [3rd Squad] unit>", 
 		"[+20]% Strength <for units with [Level 2 I]> <when adjacent to a [3rd Squad] unit>", 
 		"[+40]% Strength <for units with [Level 3 I]> <when adjacent to a [3rd Squad] unit>", 
