@@ -15,8 +15,13 @@
 		"gold": 2
 	}, 
 	{
-		"name": "Forge",
+		"name": "Three Hammers Forge",
 		"cost": 90,
 		"gold": 1
 	}, 
+	{
+		"name": "Amphitheatron",
+		"cost": 90,
+		"uniques": ["Can instantly construct a [Amphitheatron] improvement"]
+	}
 ]
