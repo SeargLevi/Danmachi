@@ -8,28 +8,28 @@
   }, 
   {
     "name": "Middle Floors", 
- 		"startingMilitaryUnitCount": 0,
+    "startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human",
     "unitBaseBuyCost": 0, 
     "startingGold": 500
   }, 
   {
     "name": "Lower Floors", 
- 		"startingMilitaryUnitCount": 0,
+    "startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
     "unitBaseBuyCost": 0, 
     "startingGold": 800
   }, 
   {
     "name": "Deep Floors", 
- 		"startingMilitaryUnitCount": 0,
+    "startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
     "unitBaseBuyCost": 0,
     "startingGold": 1200
   }, 
   {
     "name": "Bottom Floors", 
- 		"startingMilitaryUnitCount": 0,
+    "startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
     "unitBaseBuyCost": 0,
     "startingGold": 1800
