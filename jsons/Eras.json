@@ -1,32 +1,37 @@
 [
   {
     "name": "Upper Floors", 
-    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
-    "unitBaseBuyCost": 0
+    "unitBaseBuyCost": 0, 
+    "startingGold": 300
   }, 
   {
     "name": "Middle Floors", 
- 		"startingMilitaryUnitCount": 2,
+ 		"startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human",
-    "unitBaseBuyCost": 0 
+    "unitBaseBuyCost": 0, 
+    "startingGold": 500
   }, 
   {
     "name": "Lower Floors", 
- 		"startingMilitaryUnitCount": 3,
+ 		"startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
-    "unitBaseBuyCost": 0 
+    "unitBaseBuyCost": 0, 
+    "startingGold": 800
   }, 
   {
     "name": "Deep Floors", 
- 		"startingMilitaryUnitCount": 4,
+ 		"startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
-    "unitBaseBuyCost": 0 
+    "unitBaseBuyCost": 0,
+    "startingGold": 1200
   }, 
   {
     "name": "Bottom Floors", 
- 		"startingMilitaryUnitCount": 5,
+ 		"startingMilitaryUnitCount": 0,
     "startingMilitaryUnit": "Human", 
-    "unitBaseBuyCost": 0 
+    "unitBaseBuyCost": 0,
+    "startingGold": 1800
   } 
 ] 
