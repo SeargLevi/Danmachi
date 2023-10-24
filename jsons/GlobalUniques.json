@@ -13,6 +13,8 @@
         "Monster LV7", "Monster LV8", "Monster LV9", "Monster LV10", "1st Squad", "2nd Squad", "3rd Squad", 
     
    	"Cannot build [Settler] units", 
+	"Rebel units may spawn <in [Amphitheatron] tiles>", 
+	"[-20] Movement <for [Monster] units> <in [Amphitheatron] tiles>", 
 	"[-90]% XP gained from combat <vs [Monster] units>", 
         "Nullifies [Science] [in all cities]", 
         "Nullifies [Gold] [in all cities]", 
