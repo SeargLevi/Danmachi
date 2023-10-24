@@ -1,27 +1,32 @@
 [
   {
     "name": "Upper Floors", 
- 		"startingMilitaryUnitCount": 1,
-    "startingMilitaryUnit": "Human"
+    "startingMilitaryUnitCount": 1,
+    "startingMilitaryUnit": "Human", 
+    "unitBaseBuyCost": 0
   }, 
   {
     "name": "Middle Floors", 
  		"startingMilitaryUnitCount": 2,
-    "startingMilitaryUnit": "Human"
+    "startingMilitaryUnit": "Human",
+    "unitBaseBuyCost": 0 
   }, 
   {
     "name": "Lower Floors", 
  		"startingMilitaryUnitCount": 3,
-    "startingMilitaryUnit": "Human"
+    "startingMilitaryUnit": "Human", 
+    "unitBaseBuyCost": 0 
   }, 
   {
     "name": "Deep Floors", 
  		"startingMilitaryUnitCount": 4,
-    "startingMilitaryUnit": "Human"
+    "startingMilitaryUnit": "Human", 
+    "unitBaseBuyCost": 0 
   }, 
   {
     "name": "Bottom Floors", 
  		"startingMilitaryUnitCount": 5,
-    "startingMilitaryUnit": "Human"
+    "startingMilitaryUnit": "Human", 
+    "unitBaseBuyCost": 0 
   } 
 ] 
