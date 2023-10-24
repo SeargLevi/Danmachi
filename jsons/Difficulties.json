@@ -4,7 +4,7 @@
 		"baseHappiness": 9,
 		"extraHappinessPerLuxury": 0,
 		"researchCostModifier": 1,
-		"unitCostModifier": 2,
+		"unitCostModifier": 1,
 		"buildingCostModifier": 1,
 		"policyCostModifier": 5,
 		"unhappinessModifier": 1,
