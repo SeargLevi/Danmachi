@@ -21,7 +21,7 @@
 	}, 
 	{
 		"name": "Amphitheatron",
-		"cost": 90,
-		"uniques": ["Can instantly construct a [Amphitheatron] improvement"]
+		"cost": 1,
+		"uniques": ["Creates a [Amphitheatron] improvement on a specific tile"]
 	}
 ]
