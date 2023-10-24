@@ -40,11 +40,11 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Werewolf",
+		"name": "Beast Human",
 		"unitType": "Adventurer",
 		"movement": 2,
 		"strength": 10,
-		"cost": 00,
+		"cost": 50,
 		"attackSound": "metalhit"
 	},
 //Monster
