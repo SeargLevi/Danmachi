@@ -1,5 +1,8 @@
 [
-
+	{
+		"name": "Amphitheatron",
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Snow","Forest","Jungle"]
+	},
 	{
 		"name": "Farm",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Flood plains"],
