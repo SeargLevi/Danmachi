@@ -440,7 +440,8 @@
   }, 
   {
 		"name": "Buy Potion",
-		"uniques": ["This Promotion is free", "Only available <if [Market Area] is constructed>", 
+		"uniques": ["This Promotion is free", "Doing so will consume this opportunity to choose a Promotion", 
+		"Only available <if [Market Area] is constructed>", 
 		"Gain [-50] [Gold]", "Instantly provides [1] [Potion]"], 
 	 	"unitTypes": ["God"] 
   },
