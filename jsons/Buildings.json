@@ -10,7 +10,7 @@
 		"uniques": ["Indicates the capital city"]
 	}, 
 	{
-		"name": "Store",
+		"name": "Market Area",
 		"cost": 90,
 		"gold": 2
 	}, 
@@ -18,10 +18,5 @@
 		"name": "Three Hammers Forge",
 		"cost": 90,
 		"gold": 1
-	}, 
-	{
-		"name": "Amphitheatron",
-		"cost": 1,
-		"uniques": ["Creates a [Amphitheatron] improvement on a specific tile"]
 	}
 ]
