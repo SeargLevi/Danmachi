@@ -339,7 +339,7 @@
 //Equipment
   {
 		"name": "Ushiwakamaru", 
-		"uniques": ["Only available <if [Forge] is constructed>", "This Promotion is free", 
+		"uniques": ["Only available <if [Three Hammers Forge] is constructed>", "This Promotion is free", 
 		"Only available <with [Minotaur Horn]>", "Instantly consumes [1] [Minotaur Horn]", 
 		"[+5]% Strength", 
 		"[+10]% Strength <for units with [Level 2 I]>",
@@ -439,7 +439,7 @@
   }, 
   {
 		"name": "Buy Potion",
-		"uniques": ["This Promotion is free", 
+		"uniques": ["This Promotion is free", "Only available <if [Market Area] is constructed>", 
 		"Gain [-50] [Gold]", "Instantly provides [1] [Potion]"]
   },
 ] 
