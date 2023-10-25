@@ -37,7 +37,7 @@
 	{
 		"name": "Potion",
 		"resourceType": "Strategic", 
-		"uniques": ["Stockpiled"]
+		"uniques": ["Cannot be traded", "Stockpiled"]
 	}, 
 	// Bonus resources
 	{
