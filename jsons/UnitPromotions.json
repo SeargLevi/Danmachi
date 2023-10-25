@@ -436,5 +436,10 @@
 		"[+1280]% Strength <for units with [Level 8 I]> <when adjacent to a [3rd Squad] unit>",
 		"[+2560]% Strength <for units with [Level 9 I]> <when adjacent to a [3rd Squad] unit>"], 
 	 	"unitTypes": ["Adventurer"]
-  } 
+  }, 
+  {
+		"name": "Buy Potion",
+		"uniques": ["This Promotion is free", 
+		"Gain [-50] [Gold]", "Instantly provides [1] [Potion]"]
+  },
 ] 
