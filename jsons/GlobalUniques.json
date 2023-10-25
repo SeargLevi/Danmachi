@@ -32,7 +32,6 @@
         "[+640]% Strength <when attacking> <for units with [Level 7 I]>", 
         "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
         "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
-	    "Gain [50000] [Culture]"
 
     ] 
 }   
