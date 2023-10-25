@@ -1,5 +1,14 @@
 [
 	{
+		"name": "God",
+		"unitType": "God",
+		"movement": 1,
+		"strength": 5000,
+		"cost": 0,
+		"uniques": ["Limited to [1] per Civilization"], 
+		"attackSound": "metalhit"
+	}, 
+	{
 		"name": "Amazoness",
 		"unitType": "Adventurer",
 		"movement": 2,
