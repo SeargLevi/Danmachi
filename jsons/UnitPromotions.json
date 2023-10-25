@@ -369,8 +369,9 @@
   },     
   {
 		"name": "Potion",
-		"uniques": ["This Promotion is free", "Heal this unit by [20] HP",
-		"Only available <with [Potion]>", "Instantly consumes [1] [Potion]"], 
+		"uniques": ["This Promotion is free", "Heal this unit by [10] HP",
+		"Doing so will consume this opportunity to choose a Promotion", 
+		"Only available <if [Market Area] is constructed>", "Gain [-50] [Gold]"], 
 	 	"unitTypes": ["Adventurer"]
   },
 //Skills
