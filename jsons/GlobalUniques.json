@@ -33,5 +33,6 @@
         "[+1280]% Strength <when attacking> <for units with [Level 8 I]>", 
         "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
 
+	"New [God] units start with [10] Experience [in all cities]"
     ] 
 }   
