@@ -339,7 +339,8 @@
 //Equipment
   {
 		"name": "Ushiwakamaru", 
-		"uniques": ["Only available <if [Forge] is constructed>", "Only available <with [Minotaur Horn]>", "Instantly consumes [1] [Minotaur Horn]", 
+		"uniques": ["Only available <if [Forge] is constructed>", "This Promotion is free", 
+		"Only available <with [Minotaur Horn]>", "Instantly consumes [1] [Minotaur Horn]", 
 		"[+5]% Strength", 
 		"[+10]% Strength <for units with [Level 2 I]>",
 		"[+20]% Strength <for units with [Level 3 I]>",
@@ -353,7 +354,8 @@
   },     
   {
 		"name": "Goliath Robe", 
-		"uniques": ["Only available <with [Goliath Hard Skin]>", "Instantly consumes [1] [Goliath Hard Skin]", 
+		"uniques": ["This Promotion is free", 
+		"Only available <with [Goliath Hard Skin]>", "Instantly consumes [1] [Goliath Hard Skin]", 
 		"[+5]% Strength <when defending>", 
 		"[+10]% Strength <for units with [Level 2 I]> <when defending>",
 		"[+20]% Strength <for units with [Level 3 I]> <when defending>",
@@ -364,7 +366,12 @@
 		"[+640]% Strength <for units with [Level 8 I]> <when defending>",
 		"[+1280]% Strength <for units with [Level 9 I]> <when defending>"],
 		"unitTypes": ["Adventurer"]
-  },      
+  },     
+  {
+		"name": "Potion",
+		"uniques": ["This Promotion is free", "Heal this unit by [20] HP",
+		"Only available <with [Potion]>", "Instantly consumes [1] [Potion]"]
+  },
 //Skills
   {
 		"name": "Liaris Freese",
