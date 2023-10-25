@@ -15,8 +15,22 @@
 	"This Unit gains [9] XP <upon defeating a [Monster LV9] unit>", 
 	"Gain [1] [Science] <upon defeating a [Monster LV1] unit>", 
 	"Gain [2] [Science] <upon defeating a [Monster LV2] unit>", 
+	"Gain [3] [Science] <upon defeating a [Monster LV3] unit>", 
+	"Gain [4] [Science] <upon defeating a [Monster LV4] unit>", 
+	"Gain [5] [Science] <upon defeating a [Monster LV5] unit>", 
+	"Gain [6] [Science] <upon defeating a [Monster LV6] unit>", 
+	"Gain [7] [Science] <upon defeating a [Monster LV7] unit>", 
+	"Gain [8] [Science] <upon defeating a [Monster LV8] unit>", 
+	"Gain [9] [Science] <upon defeating a [Monster LV9] unit>", 
 	"Gain [2] [Gold] <upon defeating a [Monster LV1] unit>", 
 	"Gain [4] [Gold] <upon defeating a [Monster LV2] unit>",
+	"Gain [8] [Gold] <upon defeating a [Monster LV3] unit>", 
+	"Gain [16] [Gold] <upon defeating a [Monster LV4] unit>",
+	"Gain [32] [Gold] <upon defeating a [Monster LV5] unit>", 
+	"Gain [64] [Gold] <upon defeating a [Monster LV6] unit>",
+	"Gain [128] [Gold] <upon defeating a [Monster LV7] unit>", 
+	"Gain [256] [Gold] <upon defeating a [Monster LV8] unit>",
+	"Gain [512] [Gold] <upon defeating a [Monster LV9] unit>", 
 	"Instantly provides [1] [Minotaur Horn] <upon defeating a [Minotaur] unit> <with [20]% chance>", 
 	] 
   }, 
@@ -31,7 +45,6 @@
   }, 
   {
         "name": "God",
-        "movementType": "Land", 
-	"uniques": ["This Unit gains [10] XP"]
+        "movementType": "Land"
   }  
 ] 
