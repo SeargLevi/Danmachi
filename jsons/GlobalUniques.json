@@ -5,7 +5,6 @@
         "Nullifies Growth [in all cities] <when below [-10] Happiness>",
         "[-50]% [Production] [in all cities] <when below [-10] Happiness>",
         "[-33]% Strength <for [All] units> <when below [-10] Happiness>",
-        "[-1] Sight <for [Embarked] units>",
 
         // Filtering uniques must be listed here to tell RulesetValidator they're OK despite untyped
         "Aircraft", "Monster LV1", "Monster LV2", "Monster LV3", "Monster LV4", "Monster LV5", "Monster LV6",
@@ -34,6 +33,5 @@
         "[+2560]% Strength <when attacking> <for units with [Level 9 I]>", 
 
 	"New [God] units start with [10] Experience [in all cities]", 
-	    "Gain [399999] [Gold]", 
     ] 
 }   
